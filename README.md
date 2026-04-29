@@ -32,7 +32,7 @@ All projects below represent production-oriented or research-driven system desig
   AI-assisted planning and scheduling system integrating intelligent decision support into productivity workflows.
 
 * **[KeyLock](https://github.com/BM-Ghost/keylock)**
-  Secure cryptographic key management system (DUKPT / MKSK) aligned with PCI PIN standards and hardware-backed security principles. <sub>Shaped by practical exposure to fintech systems and payment scheme environments (Visa, Mastercard, UPI ecosystems).</sub>
+  Secure cryptographic key management system (DUKPT / MKSK) aligned with PCI PIN standards and hardware-backed security principles. Shaped by practical exposure to fintech systems and payment scheme environments (Visa, Mastercard, UPI ecosystems).
 
 ---
 
