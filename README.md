@@ -1,4 +1,4 @@
-# Hello, I'm Bwire!👋
+# Hello, I'm Bwire!👋🏾
 
 *Software Engineer · Systems Builder · Applied AI*
 
@@ -12,7 +12,7 @@ My long-term interest is in how these systems evolve toward **generalized intell
 
 ---
 
-## 🧠 Selected Systems
+## Selected Current Work
 
 All projects below represent production-oriented or research-driven system design work:
 
@@ -47,7 +47,7 @@ All projects below represent production-oriented or research-driven system desig
 
 ---
 
-## 🌍 Technical Direction
+## Technical Direction
 
 * Building systems that convert **raw data into structured intelligence**
 * Exploring **hybrid AI systems (symbolic + learning-based architectures)**
@@ -69,7 +69,7 @@ Open to technical discussions, system design collaboration, and research-oriente
 
 ---
 
-## 📫 Contact
+## Contact
 
 * Email: **[bmwandera14@gmail.com](mailto:bmwandera14@gmail.com)**
 * Portfolio: [meshackbwire.vercel.app](https://meshackbwire.vercel.app)
